@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Translator
+Language translation application built using ReactJS and the Google Cloud Translation API.
+
+Make sure to generate a Google API key prior to using the app.
+
+You can generate your key by following the steps described at https://cloud.google.com/translate/docs/setup
+
+Note: the Google Cloud Translation API is a paid API.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
